@@ -1,2 +1,5 @@
 /* Random .vim history file */
 .netrwhist
+
+/* Actually installed packages */
+plugged/
